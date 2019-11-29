@@ -113,13 +113,20 @@ HDFS、MapReduce、HBase 数据都是老师给你的
 
 ### 2.2 Flume部署模式
 
-####2.2.1 单一Agent采集数据
+>单一Agent采集数据
+
 ![](http://flume.apache.org/_images/DevGuide_image00.png)
-####2.2.2 多Agent串联采集数据
+
+>多Agent串联采集数据
+
 ![](http://flume.apache.org/_images/UserGuide_image03.png)
-####2.2.3 多Agent合并串联采集数据
+
+>多Agent合并串联采集数据
+
 ![](http://flume.apache.org/_images/UserGuide_image02.png)
-####2.2.4 多Agent合并串联采集数据
+
+>多Agent合并串联采集数据
+
 ![](http://flume.apache.org/_images/UserGuide_image01.png)
 
 
