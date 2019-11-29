@@ -1,4 +1,4 @@
-#Flume介绍
+# Flume介绍
 
 ## 1.为何用Flume
 
@@ -211,12 +211,12 @@ HDFS、MapReduce、HBase 数据都是老师给你的
 	
 	flume-ng agent -c conf -n a1 -f ../agent/netcat-logger.properties -Dflume.root.logger=INFO,console
 
-![TIM截图20191130005444.png](https://i.loli.net/2019/11/30/EvLnzGOMsKStR6Q.png)
+![TIM截图20191130005444.png](https://i.loli.net/2019/11/30/EvLnzGOMsKStR6Q.png)    
 
->使用telnet命令，输入“hello”
+> 使用telnet命令，输入“hello”
 
-![TIM截图20191130005604.png](https://i.loli.net/2019/11/30/8NtlnIWJ97cQUoi.png)
+![TIM截图20191130005604.png](https://i.loli.net/2019/11/30/8NtlnIWJ97cQUoi.png)    
 
 >生成event
 
-![TIM截图20191130005651.png](https://i.loli.net/2019/11/30/mhtDPAX6sQfebiw.png)
+![TIM截图20191130005651.png](https://i.loli.net/2019/11/30/mhtDPAX6sQfebiw.png)    
